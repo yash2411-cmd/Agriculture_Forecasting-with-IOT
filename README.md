@@ -21,6 +21,11 @@ Sensors may be utilised to gather this information, and by doing so, we can use 
 3. C language (aurdino)
 4. IOT proteus 8.13
 5. Aurdino IDE
+6. kotlin
+7. flutter
+8. google colab
+9. nodejs
+10. python
 
 ## Team members:
 1. Yash Tiwari UID  DCH-8204
